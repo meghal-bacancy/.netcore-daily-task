@@ -1,0 +1,6 @@
+@day1_HostAddress = http://localhost:5125
+
+GET {{day1_HostAddress}}/jsontostring/
+Accept: application/json
+
+###
