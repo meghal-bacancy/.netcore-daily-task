@@ -1,6 +1,6 @@
 {
-  "name": "Meghal",
-  "age": 22
+  "name": "name",
+  "age": 0
 }
 {
   "name": "Meghal",
