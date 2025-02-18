@@ -4,3 +4,4 @@
 
 ![day1_1](/img/day1_1.png)
 ![day1_2](/img/day1_2.png)
+![day1_3](/img/day1_3.png)
